@@ -1,0 +1,2 @@
+# komentar
+# prvni zmena souboru
